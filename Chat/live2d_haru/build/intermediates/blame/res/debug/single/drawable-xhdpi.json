@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\78762\\Downloads\\Chat\\live2d_haru\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\questionmark.png",
+        "source": "C:\\Users\\78762\\Downloads\\Chat\\live2d_haru\\src\\main\\res\\drawable-xhdpi\\questionmark.png"
+    },
+    {
+        "merged": "C:\\Users\\78762\\Downloads\\Chat\\live2d_haru\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\background.png",
+        "source": "C:\\Users\\78762\\Downloads\\Chat\\live2d_haru\\src\\main\\res\\drawable-xhdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\78762\\Downloads\\Chat\\live2d_haru\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\blank.png",
+        "source": "C:\\Users\\78762\\Downloads\\Chat\\live2d_haru\\src\\main\\res\\drawable-xhdpi\\blank.png"
+    },
+    {
+        "merged": "C:\\Users\\78762\\Downloads\\Chat\\live2d_haru\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\help_bg.png",
+        "source": "C:\\Users\\78762\\Downloads\\Chat\\live2d_haru\\src\\main\\res\\drawable-xhdpi\\help_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\78762\\Downloads\\Chat\\live2d_haru\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_gear.png",
+        "source": "C:\\Users\\78762\\Downloads\\Chat\\live2d_haru\\src\\main\\res\\drawable-xhdpi\\icon_gear.png"
+    },
+    {
+        "merged": "C:\\Users\\78762\\Downloads\\Chat\\live2d_haru\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\send.png",
+        "source": "C:\\Users\\78762\\Downloads\\Chat\\live2d_haru\\src\\main\\res\\drawable-xhdpi\\send.png"
+    },
+    {
+        "merged": "C:\\Users\\78762\\Downloads\\Chat\\live2d_haru\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\microphone.png",
+        "source": "C:\\Users\\78762\\Downloads\\Chat\\live2d_haru\\src\\main\\res\\drawable-xhdpi\\microphone.png"
+    },
+    {
+        "merged": "C:\\Users\\78762\\Downloads\\Chat\\live2d_haru\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\paperplane.png",
+        "source": "C:\\Users\\78762\\Downloads\\Chat\\live2d_haru\\src\\main\\res\\drawable-xhdpi\\paperplane.png"
+    },
+    {
+        "merged": "C:\\Users\\78762\\Downloads\\Chat\\live2d_haru\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon.png",
+        "source": "C:\\Users\\78762\\Downloads\\Chat\\live2d_haru\\src\\main\\res\\drawable-xhdpi\\icon.png"
+    }
+]

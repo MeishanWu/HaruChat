@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\78762\\Downloads\\Chat\\live2d_haru\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\help_bg.png",
+        "source": "C:\\Users\\78762\\Downloads\\Chat\\live2d_haru\\src\\main\\res\\drawable-mdpi\\help_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\78762\\Downloads\\Chat\\live2d_haru\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\questionmark.png",
+        "source": "C:\\Users\\78762\\Downloads\\Chat\\live2d_haru\\src\\main\\res\\drawable-mdpi\\questionmark.png"
+    },
+    {
+        "merged": "C:\\Users\\78762\\Downloads\\Chat\\live2d_haru\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\background.png",
+        "source": "C:\\Users\\78762\\Downloads\\Chat\\live2d_haru\\src\\main\\res\\drawable-mdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\78762\\Downloads\\Chat\\live2d_haru\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\microphone.png",
+        "source": "C:\\Users\\78762\\Downloads\\Chat\\live2d_haru\\src\\main\\res\\drawable-mdpi\\microphone.png"
+    },
+    {
+        "merged": "C:\\Users\\78762\\Downloads\\Chat\\live2d_haru\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon.png",
+        "source": "C:\\Users\\78762\\Downloads\\Chat\\live2d_haru\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\78762\\Downloads\\Chat\\live2d_haru\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\blank.png",
+        "source": "C:\\Users\\78762\\Downloads\\Chat\\live2d_haru\\src\\main\\res\\drawable-mdpi\\blank.png"
+    },
+    {
+        "merged": "C:\\Users\\78762\\Downloads\\Chat\\live2d_haru\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\send.png",
+        "source": "C:\\Users\\78762\\Downloads\\Chat\\live2d_haru\\src\\main\\res\\drawable-mdpi\\send.png"
+    },
+    {
+        "merged": "C:\\Users\\78762\\Downloads\\Chat\\live2d_haru\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\paperplane.png",
+        "source": "C:\\Users\\78762\\Downloads\\Chat\\live2d_haru\\src\\main\\res\\drawable-mdpi\\paperplane.png"
+    }
+]

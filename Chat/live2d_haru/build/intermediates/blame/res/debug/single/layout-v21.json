@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\78762\\Downloads\\Chat\\live2d_haru\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\78762\\.android\\build-cache\\c51b71538d56f3e1da084e8d8f63d232da51aa50\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\78762\\Downloads\\Chat\\live2d_haru\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\78762\\.android\\build-cache\\c51b71538d56f3e1da084e8d8f63d232da51aa50\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\78762\\Downloads\\Chat\\live2d_haru\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\78762\\.android\\build-cache\\c51b71538d56f3e1da084e8d8f63d232da51aa50\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\78762\\Downloads\\Chat\\live2d_haru\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\78762\\.android\\build-cache\\c51b71538d56f3e1da084e8d8f63d232da51aa50\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

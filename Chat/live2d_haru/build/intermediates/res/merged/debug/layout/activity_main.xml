@@ -1,0 +1,82 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" />
+    </ScrollView>
+
+    <FrameLayout
+        android:id="@+id/live2DLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:background="#ffffff">
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/recycler"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:background="@drawable/background" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:layout_margin="10dp">
+
+
+            <EditText
+                android:id="@+id/editTextInput"
+                style="@style/AppTheme"
+                android:layout_width="0dp"
+                android:layout_height="50dp"
+                android:layout_gravity="bottom"
+                android:layout_weight="8.79"
+                android:ems="10"
+                android:inputType="textMultiLine" />
+
+            <ImageButton
+                android:id="@+id/sendButton"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_gravity="bottom"
+                android:layout_margin="5dp"
+                android:background="@null"
+                android:scaleType="fitCenter"
+                android:src="@drawable/send" />
+
+            <ImageButton
+                android:id="@+id/talkButton"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_gravity="bottom"
+                android:layout_margin="5dp"
+                android:background="@null"
+                android:scaleType="fitCenter"
+                android:src="@drawable/microphone" />
+
+        </LinearLayout>
+
+        <ImageButton
+            android:id="@+id/helpButton"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_gravity="top|right"
+            android:layout_margin="5dp"
+            android:background="@null"
+            android:scaleType="fitCenter"
+            android:src="@drawable/questionmark" />
+
+    </FrameLayout>
+
+</RelativeLayout>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "269141460308",
+    "firebase_url": "https://test-178cb.firebaseio.com",
+    "project_id": "test-178cb",
+    "storage_bucket": "test-178cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269141460308:android:eb456b50d94d44e2",
+        "android_client_info": {
+          "package_name": "com.example.chuan.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269141460308-lltc9u58pm28jdmtbv5namef35ucm8n4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chuan.chat",
+            "certificate_hash": "7622ac6f5b6bbd1b5ed300b15c77bb786b15784d"
+          }
+        },
+        {
+          "client_id": "269141460308-4i7pvjl7da9sf8v2jjgigo7nsvjdi2g9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG38Fs85YrT8ETtPb86m4_XSVnGm5dgyM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269141460308-4i7pvjl7da9sf8v2jjgigo7nsvjdi2g9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

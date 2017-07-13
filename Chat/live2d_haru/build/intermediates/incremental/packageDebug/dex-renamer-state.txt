@@ -1,0 +1,7 @@
+#Wed May 03 13:07:55 CDT 2017
+base.0=C\:\\Users\\78762\\Downloads\\Chat\\live2d_haru\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3b96bf4e893a1def3e5212d70acbeac81fb11b55
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\78762\\Downloads\\Chat\\live2d_haru\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e425828cbc4131a4aed8ef5faec79b8c751b9179\\classes.dex
+base.1=C\:\\Users\\78762\\Downloads\\Chat\\live2d_haru\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e425828cbc4131a4aed8ef5faec79b8c751b9179
+file.0=C\:\\Users\\78762\\Downloads\\Chat\\live2d_haru\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3b96bf4e893a1def3e5212d70acbeac81fb11b55\\classes.dex
